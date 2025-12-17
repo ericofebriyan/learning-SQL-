@@ -20,3 +20,7 @@
 
         -- pilih semua data dari table costomer
 SELECT * FROM customer;
+        -- pernyataan SQL select
+    -- pernyataan tersebut SELECT digunakan untuk memilih data dari basis data
+SELECT ID_Customer
+FROM customer;
